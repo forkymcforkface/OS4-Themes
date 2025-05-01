@@ -1,6 +1,11 @@
+<div align="center">
+
 **This is an automated theme downloader/updater for RGB-Pi OS4**  
 
 **75+ themes available!**
+
+</div>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d8b6baeb-f061-4efd-bbfa-3dafd3f5e533" width="15%">
