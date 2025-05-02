@@ -1,6 +1,6 @@
 <div align="center">
 
-**This is an automated theme downloader/updater for RGB-Pi OS4**  
+**This is an automated theme downloader/updater for [RGB-Pi OS4](https://ko-fi.com/s/4119fb48b8)**  
 
 **75+ themes available!**
 
