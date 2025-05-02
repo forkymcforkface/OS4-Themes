@@ -74,7 +74,7 @@ Check out how to make themes via the [RGB-Pi Wiki](https://www.mortaca.com/rgb-p
 - Open the template and replace line 5 information with your compressed 7z filename
   - Example *ARCHIVE_FILENAME="themefilename.7z"* to *ARCHIVE_FILENAME="Bubble Bobble - Theme By Kev.7z"*
 - add you scraper images into /data/images with the format following the .sh file name with _title_usa appended.
-  - Example: Bubble Bobble_title_usa.png
+  - Example: Bubble 'Bobble_title_usa.png'
 - Submit a pull request for your theme to be added to this repo
 
 
