@@ -29,7 +29,11 @@
 
 --------------------------------------
 
-Check out how to make themes via the [RGB-Pi Wiki](https://www.mortaca.com/docs/wiki/index.php?title=OS4_Theme_Creation) and also the [Telegram group](https://t.me/+9b0og61HyixhNjg0)!
+<div align="center">
+  
+Check out how to make themes via the [RGB-Pi Wiki](https://www.mortaca.com/docs/wiki/index.php?title=OS4_Theme_Creation) and also in the [Telegram group](https://t.me/+9b0og61HyixhNjg0)!
+
+</div>
 
 --------------------------------------
 
