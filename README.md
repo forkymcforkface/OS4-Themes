@@ -47,7 +47,7 @@ Check out how to make themes via the [RGB-Pi Wiki](https://www.mortaca.com/docs/
   
   ![Mega Tech_04](https://github.com/user-attachments/assets/2b2fda1b-a4db-43d8-96a4-a900f4d51d94)
 - Once the themes download, the OS4 UI will reload.
-- In the 'Theme Manager' you will now new folders, you can now install all Themes or install individual themes from the list.
+- In the 'Theme Manager' you will now have new folders, you can now install all Themes or install individual themes from the list.
   - While selected over an individual theme press the info button to see a image of the theme
   - New themes/updates can be downloaded by simply running 'Update Themes' again (very quick)
     
